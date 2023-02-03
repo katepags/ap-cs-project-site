@@ -24,7 +24,7 @@ a:hover {
 .clear {
   clear: both;
 }
-#project-container, #aboutme {
+#project-container, #aboutme, #aipage {
   margin: 0 auto;
   width: 90%;
   max-width: 600px;
@@ -40,7 +40,7 @@ a:hover {
   margin-right: 10px;
   margin-bottom: 10px;
 }
-.project h2, #aboutme h2 {
+.project h2, #aboutme h2, #aipage h2 {
   font-size: 1.5em;
   margin-bottom: 10px;
 }
